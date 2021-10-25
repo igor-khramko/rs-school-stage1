@@ -1,0 +1,47 @@
+[
+  {
+  	"title": "Hiromitsu Agatsuma -Tsuki Sayu Yoru",
+    "src": "./assets/sounds/Hiromitsu Agatsuma, Chen Min, Akira Senju - Furinkazan -Tsuki Sayu Yoru.mp3",
+    "duration": "03:32"
+  },
+  {      
+  	"title": "Marshmello feat. Leah Culver - Fly",
+    "src": "./assets/sounds/Marshmello feat. Leah Culver - Fly.mp3",
+    "duration": "03:13"
+  },
+  {
+  	"title": "All Time Low feat. blackbear - Monsters",
+    "src": "./assets/sounds/All Time Low feat. blackbear - Monsters.mp3",
+    "duration": "02:54"
+  },
+	{
+  	"title": "Peter Bence - The Awesome Piano",
+    "src": "./assets/sounds/Peter Bence - The Awesome Piano.mp3",
+    "duration": "03:29"
+  },
+	{
+  	"title": "Red Hot Chili Peppers - Can't Stop",
+    "src": "./assets/sounds/Red Hot Chili Peppers - Can't Stop.mp3",
+    "duration": "04:29"
+  },
+  {      
+    "title": "The Kiffness - Alugalug Cat",
+  	"src": "./assets/sounds/The Kiffness - Alugalug Cat.mp3",
+    "duration": "03:06"
+  },  
+	{
+  	"title": "The Offspring - Let The Bad Times Roll",
+    "src": "./assets/sounds/The Offspring - Let The Bad Times Roll.mp3",
+    "duration": "03:18"
+  },
+	{
+  	"title": "Baba O'Riley - The Who",
+    "src": "./assets/sounds/The Who - Baba O'Riley.mp3",
+    "duration": "04:59"
+  },
+	{
+  	"title": "The Offspring - You're Gonna Go Far, Kid",
+    "src": "./assets/sounds/The Offspring - You're Gonna Go Far, Kid.mp3",
+    "duration": "02:57"
+  }
+]
